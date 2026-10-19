@@ -66,6 +66,13 @@ The report includes the following pages:
 
 The project provides insights into sales trends, customer purchasing patterns, product category performance, payment preferences, customer satisfaction, and delivery operations to support data-driven decision-making.
 
+## Key findings
+- **R$13.59M revenue, 98.67K orders, 95.42K customers, AOV R$137.75.**
+- **93.23% of delivered orders arrive on time** (6,534 late orders).
+- **Late orders average a 2.27 review score vs 4.29 for on-time orders.**
+- Top categories: health_beauty, watches_gifts, bed_bath_table. SP generates the most revenue by a wide margin.
+- Jan-Aug 2018 revenue was about 137% higher than Jan-Aug 2017 (R$7.39M vs R$3.11M).
+
 ## 👩‍💻 Skills Demonstrated
 
 **Data Analysis:** SQL, Power BI, DAX
